@@ -4,6 +4,8 @@ A boilerplate project for quickly building Graphql APIs and with typescript 🚀
 
 ## Installation
 
+
+
 Install the dependencies:
 
 ```bash
